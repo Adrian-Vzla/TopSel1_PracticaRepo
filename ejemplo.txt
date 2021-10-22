@@ -1,1 +1,2 @@
-Les deseo el mejor de los éxitos con su práctica =)
+#/bin/bash
+echo "Siento que me falta dominar mejor los comandos de GitHub, ya que debido a la cantidad de comandos se me confunden algunas cosas"
